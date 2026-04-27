@@ -1,4 +1,4 @@
-﻿Shaunebu.Azure.AppConfiguration 🌐✨
+﻿Shaunebu.Azure.Storage 🌐✨
 ===================================
 
 ![NuGet Version](https://img.shields.io/nuget/v/Shaunebu.Azure.Storage?color=blue&label=NuGet)
